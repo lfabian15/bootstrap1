@@ -1,0 +1,22 @@
+#fa{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+#perfil{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+#bb{
+    margin-left: 15%;
+    text-align: justify;
+}
+#pp{
+    margin-right: 15%;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
